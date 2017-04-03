@@ -1,0 +1,28 @@
+{
+  "name": "github-profile-viewer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adityabhushan/github-profile-viewer.git"
+  },
+  "author": "Aditya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adityabhushan/github-profile-viewer/issues"
+  },
+  "homepage": "https://github.com/adityabhushan/github-profile-viewer#readme",
+  "devDependencies":{
+    "babel-core":"5.8.*",
+    "babel-loader":"5.3.*",
+    "webpack":"1.12.*"
+  },
+  "dependencies":{
+    "react":"^0.14.7",
+    "react-dom":"^0.14.7"
+  }
+}
